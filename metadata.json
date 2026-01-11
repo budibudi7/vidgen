@@ -1,0 +1,5 @@
+{
+  "name": "Zlk Animator",
+  "description": "Transform static images into dynamic videos using latest video model.",
+  "requestFramePermissions": []
+}

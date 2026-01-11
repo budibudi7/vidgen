@@ -1,0 +1,6 @@
+{
+  "/api/generate/route": "app/api/generate/route.js",
+  "/api/operations/[...name]/route": "app/api/operations/[...name]/route.js",
+  "/api/video/route": "app/api/video/route.js",
+  "/page": "app/page.js"
+}
